@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2014-07-09T21:02:57Z</responseDate>
+    <request verb="ListRecords" metadataPrefix="oai_dc" >http://www.bu.edu/library/guides</request>
+<ListRecords>
+<record>
+<header>
+<identifier>
+libguide:340</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>WR150: Russian Literature Sources</dc:title>
+<dc:creator>Diane D’Almeida</dc:creator>
+<dc:subject>Literature &amp;amp; Language</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/wr150russian/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:49 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:341</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>African Newspapers in Print</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/newsresources/currentevents/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:57 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:342</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Background Sources on Current Events in Africa</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/newsresources/background/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:57 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:343</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>African News Resources</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/newsresources/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:57 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:344</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>African Newspapers on Microfilm</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/newsresources/microfilm/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:345</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>African Newspapers Online</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/newsresources/onlinenewspapers/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:346</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Newspaper Articles on Nelson Mandela&apos;s Release</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/newsresources/currentevents/mandela/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:347</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Lesotho - Libya</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_l/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:348</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Egypt - Ethiopia</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_e/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:349</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Djibouti</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_d/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:350</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Gabon - Guinea-Bissau</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_g/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:351</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Kenya</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_k/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:352</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Madagascar-Mozambique</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_m/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:353</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Namibia, Niger, Nigeria</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_n/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:354</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Rwanda</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_r/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:58 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:355</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Senegal - Swaziland</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_s/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:356</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Algeria - Angola</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_a/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:357</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Benin - Botswana</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_b/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:360</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Cameroon - Cote d&apos;Ivoire</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_c/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:361</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Tanzania - Tunisia</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_t/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:362</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Uganda</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_u/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:363</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: Zambia and Zimbabwe</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_z/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:364</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources and Archival Collections: African Regions</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_regions/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+<dc:description>Primary sources for study of African regions.</dc:description>
+<dc:subject>African Studies, Primary documents, microfilm</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:365</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Sources in the ASL</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/collections_various/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:366</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Resources and Archival Collections on Africa: Index Page</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:subject>Area &amp;amp; Cultural Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/collections_index/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:367</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Resources and Archival Collections: Index of Finding Guides</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/guide_index/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:368</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Resources and Archival Collections Held Internationally and in the U.S.</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/guide_index/collections_other/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:369</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Resources and Archival Collections: Algeria - Zimbabwe</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/guide_index/collection_countries/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:370</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Resources and Archival Collections Held in Africa</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/guide_index/collections_in_africa/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:371</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>HI588: Women, Power and Culture in Africa</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:subject>Anthropology</dc:subject>
+<dc:subject>History</dc:subject>
+<dc:subject>Women&apos;s Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/hi588/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:372</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>ID 116: Africa Today</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/id116/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:45:59 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:373</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Resources and Archival Collections: Missions</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:creator>David Westley</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/guide_index/collections_missions/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:00 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:374</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Resources and Archival Collections: General Guides</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/guide_index/collections_general/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:00 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:375</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Primary Resources about Africa: Research Strategies</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanprimaryarchives/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:00 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:376</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Zulu Language Resources</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/zulu/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:00 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:377</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Swahili Publishing Terms</dc:title>
+<dc:creator>David Westley</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/swahiliterms/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:00 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:378</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guide to Using Web Resources for the Study of Africa</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:creator>David Westley</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africa-webresources/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:01 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:379</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Researching Africa: Problems, Initiatives, Resources</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/researchingafrica/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:01 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:380</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Africa: Getting Started with Research</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:creator>David Westley</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africaresearch/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:01 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:381</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Exploring the Culture and Arts of Africa: A Survey of the Literature</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:creator>David Westley</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanculture/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:01 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:382</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Human Rights and Refugees in Africa</dc:title>
+<dc:creator>David Westley</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/humanrights/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:01 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:383</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Women&apos;s Issues in Africa: Finding Information on the Web</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:creator>David Westley</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanwomen/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:01 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:384</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Research Guide: Peoples and Cultures of Africa</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africanpeoples/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:01 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:385</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Web Resources for the Peoples and Cultures of Africa</dc:title>
+<dc:creator>Beth Restrick</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/africa-2/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:01 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:386</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Art</dc:title>
+<dc:subject>American Studies</dc:subject>
+<dc:subject>Area &amp;amp; Cultural Studies</dc:subject>
+<dc:subject>Arts</dc:subject>
+<dc:subject>Arts &amp;amp; Humanities</dc:subject>
+<dc:subject>Images</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/americanart/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:10 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:387</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Abortion</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Health</dc:subject>
+<dc:subject>Law &amp;amp; Ethics</dc:subject>
+<dc:subject>Politics and Public Policy</dc:subject>
+<dc:subject>Women&apos;s Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/abortion/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:10 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:388</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Classical Studies</dc:title>
+<dc:subject>Archaeology</dc:subject>
+<dc:subject>Area &amp;amp; Cultural Studies</dc:subject>
+<dc:subject>Arts</dc:subject>
+<dc:subject>Arts &amp;amp; Humanities</dc:subject>
+<dc:subject>History</dc:subject>
+<dc:subject>Literature &amp;amp; Language</dc:subject>
+<dc:subject>Middle East</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/classics/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:11 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:389</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Patent and Trademark Searching</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Business &amp;amp; Management</dc:subject>
+<dc:subject>Engineering</dc:subject>
+<dc:subject>Science &amp;amp; Engineering</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/patents/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:11 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:390</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Modern and Contemporary Art</dc:title>
+<dc:creator>Ruth Thomas</dc:creator>
+<dc:subject>Arts</dc:subject>
+<dc:subject>Arts &amp;amp; Humanities</dc:subject>
+<dc:subject>History</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/20thart/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:11 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:391</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hispanic American Studies</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>American Studies</dc:subject>
+<dc:subject>Area &amp;amp; Cultural Studies</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/hispanic-american-studies/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:11 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:392</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clothing, Fashion &amp; Appearance</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Anthropology</dc:subject>
+<dc:subject>Area &amp;amp; Cultural Studies</dc:subject>
+<dc:subject>Arts &amp;amp; Humanities</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/clothing/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:11 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:393</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Standards</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Engineering</dc:subject>
+<dc:subject>Interdisciplinary Sciences</dc:subject>
+<dc:subject>Science &amp;amp; Engineering</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/standards/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:12 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:394</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Social Work</dc:title>
+<dc:creator>Meredith Kirkpatrick</dc:creator>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/socwork/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:12 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:395</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Criminology &amp; Criminal Justice</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Law &amp;amp; Ethics</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/criminology-criminaljustice/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:12 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:396</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Juvenile Justice</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Law &amp;amp; Ethics</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/juvenilejustice/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:12 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:397</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Gastronomy</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Anthropology</dc:subject>
+<dc:subject>Gastronomy</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/gastronomy/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:12 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:398</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>African American Studies</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:subject>American Studies</dc:subject>
+<dc:subject>Area &amp;amp; Cultural Studies</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/african-american-studies/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:12 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:399</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Asian American Studies</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>American Studies</dc:subject>
+<dc:subject>Area &amp;amp; Cultural Studies</dc:subject>
+<dc:subject>Asian Studies</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/asian-american-studies/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:13 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:400</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Japanese Art and Architecture</dc:title>
+<dc:subject>Arts</dc:subject>
+<dc:subject>Asian Studies</dc:subject>
+<dc:subject>History</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/japanart/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:13 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:401</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>LGBTQIA and Gender Identity Studies</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Law &amp;amp; Ethics</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/lgbtgenderstudies/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:13 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:402</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bioethics</dc:title>
+<dc:creator>Lisa Philpotts</dc:creator>
+<dc:subject>Health</dc:subject>
+<dc:subject>Law &amp;amp; Ethics</dc:subject>
+<dc:subject>Life Sciences</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/bioethics/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:13 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:403</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Stem Cell Research</dc:title>
+<dc:creator>Lisa Philpotts</dc:creator>
+<dc:subject>Health</dc:subject>
+<dc:subject>Life Sciences</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/stemcell/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:13 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:404</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Oral History &amp; Family History</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>American Studies</dc:subject>
+<dc:subject>History</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/oralhistory/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:13 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:405</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Smoking and Tobacco</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Health</dc:subject>
+<dc:subject>Politics and Public Policy</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/smokingandtobacco/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:14 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:406</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Biomedical Engineering</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Engineering</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/biomed/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:15 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:407</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Chemistry</dc:title>
+<dc:creator>J.D. Kotula</dc:creator>
+<dc:subject>Physical Sciences</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/chemrg/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:15 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:408</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Computer Science</dc:title>
+<dc:creator>J.D. Kotula</dc:creator>
+<dc:subject>Mathematics, Computer Science and Statistics</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/csrg/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:15 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:409</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Electrical &amp; Computer Engineering</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Engineering</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/ece/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:15 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:410</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ecology</dc:title>
+<dc:creator>Jenna Ryan</dc:creator>
+<dc:subject>Life Sciences</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/ecologyguide/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:15 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:411</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Massachusetts Geology</dc:title>
+<dc:creator>Jenna Ryan</dc:creator>
+<dc:subject>Physical Sciences</dc:subject>
+<dc:subject>Urban Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/gmassrg/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:15 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:412</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mathematics</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Mathematics, Computer Science and Statistics</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/mathrg/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:16 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:413</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marine Biology</dc:title>
+<dc:creator>Jenna Ryan</dc:creator>
+<dc:subject>Life Sciences</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/marinebioguide/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:16 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:414</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mathematical Statistics</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Mathematics, Computer Science and Statistics</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/mathstats/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:16 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:415</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mechanical Engineering</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Engineering</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/mech/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:16 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:416</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Nanotechnology</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Engineering</dc:subject>
+<dc:subject>Interdisciplinary Sciences</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/nanotech/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:16 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:417</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Nonlinear Science</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Engineering</dc:subject>
+<dc:subject>Interdisciplinary Sciences</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/nonlinear/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:16 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:418</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photonics</dc:title>
+<dc:creator>Paula Carey</dc:creator>
+<dc:subject>Engineering</dc:subject>
+<dc:subject>Interdisciplinary Sciences</dc:subject>
+<dc:subject>Science &amp;amp; Engineering</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/photon/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:17 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:419</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Physics</dc:title>
+<dc:creator>Mary Foppiani</dc:creator>
+<dc:subject>Physical Sciences</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/phyguide/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:17 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:420</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Women&apos;s Studies</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Women&apos;s Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/womens-studies/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:17 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:421</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Animal Rights</dc:title>
+<dc:creator>Meredith Kirkpatrick</dc:creator>
+<dc:subject>Law &amp;amp; Ethics</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/animalrights/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:17 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:422</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Women in the United States in the 19th Century</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>American Studies</dc:subject>
+<dc:subject>History</dc:subject>
+<dc:subject>Women&apos;s Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/women19thcenturyus/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:17 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:423</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>United States History</dc:title>
+<dc:creator>Donald Altschiller</dc:creator>
+<dc:subject>History</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/americanhistory/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:17 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:424</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Women in Developing Countries</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Women&apos;s Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/women-in-developing-countries/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:17 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:425</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Drug Abuse</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Health</dc:subject>
+<dc:subject>Law &amp;amp; Ethics</dc:subject>
+<dc:subject>Politics and Public Policy</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/drugabuse/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:17 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:426</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Philosophy</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Religion and Philosophy</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/philosophy/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:18 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:427</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Alcoholism</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>Health</dc:subject>
+<dc:subject>Psychology and Sociology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/alcoholism/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:18 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:428</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Art History</dc:title>
+<dc:subject>American Studies</dc:subject>
+<dc:subject>Archaeology</dc:subject>
+<dc:subject>Arts</dc:subject>
+<dc:subject>Arts &amp;amp; Humanities</dc:subject>
+<dc:subject>Asian Studies</dc:subject>
+<dc:subject>History</dc:subject>
+<dc:subject>Images</dc:subject>
+<dc:subject>Middle East</dc:subject>
+<dc:subject>Urban Studies</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/arthistory/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:18 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:429</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Plant Biology</dc:title>
+<dc:creator>Jenna Ryan</dc:creator>
+<dc:subject>Life Sciences</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/plantbio/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:18 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:430</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>German Language and Literature - in the Library and on the Web</dc:title>
+<dc:creator>Diane D’Almeida</dc:creator>
+<dc:subject>Arts &amp;amp; Humanities</dc:subject>
+<dc:subject>Literature &amp;amp; Language</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/german/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:18 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:431</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Anthropology</dc:title>
+<dc:creator>J. Christina Smith</dc:creator>
+<dc:subject>African Studies</dc:subject>
+<dc:subject>Anthropology</dc:subject>
+<dc:identifier>http://www.bu.edu/library/guide/anthropology/</dc:identifier>
+<dc:date>Mon, 16 May 2011 21:46:18 +0000</dc:date><dc:type>guide</dc:type>
+<dc:subject>research guide</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>
+libguide:432</identifier>
+<datestamp>2009-09-19T06:00:13Z</datestamp>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.
