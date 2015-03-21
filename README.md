@@ -19,9 +19,9 @@ The output file ('guides.xml') is the file that is ingested into Primo via a sta
 
 After initial testing, we determined that it would be more desireable to harvest the guides on a daily basis. The export of the file from WordPress could not be automated, so we developed  scripts to harvest all of the metadata directly from the WordPress web pages. U harvests library subject guides from four different sites. Two are WordPress sites Mugar and Theology. The Medical Library maintains its guides on a php driven web site . The Law Library maintains its guides on the SpringShare LibGuides platform. The python scripts for harvesting from each was developed using iPython notebook. The files were explorted as standard python (*.py) files to be run scheduled by a cron job.
 
-* mugar_libguides.ipynb
+* MugarGuidesHarvestedFromWordPress.ipynb
 * LawLibraryLibGuldes.ipynb		
-* theology_research_guides.ipynb
+* TheologyLibraryGuidesHarvestedFromWordPress.ipynb
 * Medical Research Guides.ipynb
 
 The ipython notebook files (*.ipynb) are reasonably well documented and are the basis for the python files ( *.py ) that we currently use.
